@@ -1,0 +1,12 @@
+env/
+venv/
+ENV/
+.venv/
+.env
+.vscode/
+.docx
+.doc
+__pycache__/
+store/
+.exe
+.pdb
